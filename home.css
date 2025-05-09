@@ -51,7 +51,7 @@
 
 .main > .midlle-container > .middle-left > .middle-top > img {
     width: 43rem;
-    height: 22rem;
+    height: 25rem;
     padding-bottom: 2rem;
 }
 
@@ -111,6 +111,7 @@
 
 .main > .bottom-container > .card-bottom > .card-bottom-left > img {
     width: 6rem;
+    height: 10rem;
 }
 
 .main > .bottom-container > .card-bottom > .card-bottom-right {
@@ -205,6 +206,10 @@
         align-items: center;
     }
     .main > .bottom-container > .card-bottom > .card-bottom-left > img {
-        width: 3rem;
+        width: 3.5rem;
     }
+    .main > .bottom-container > .card-bottom > .card-bottom-right{
+        gap: 1rem;
+        display: flex;
+    } 
 }
